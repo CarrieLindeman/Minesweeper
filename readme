@@ -1,0 +1,5 @@
+This is the java package for my Minesweeper game. In order to play multiple games please run 
+the Minesweeper class.
+
+My flags are not reversible and nothing stops the user from using a negative number of flags.
+I would like to have improved on the printing of the number of flags the user can use.
